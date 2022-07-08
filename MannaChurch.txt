@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MANNA CHURCH</title>
+	<style>
+		@import url('https://fonts.googleapis.com/css2?sfamily=Arima:wght@100;200&family=Cinzel&family=Diplomata+SC&family=Gulzar&family=Lobster&family=Montserrat:wght@100&family=Playfair+Display:ital,wght@1,600&family=Rubik+Moonrocks&family=Satisfy&family=The+Nautigal&display=swap');
+
+		#container{
+			height: 1000px;
+			width: 1250px;
+			background-color:lightgrey;
+			border: 10px outset black;
+			position: absolute;
+			left: 0px;
+			color: darkgreen;
+
+		}
+		img{
+			height: 1000px;
+			width: 1250px;
+			border: 10px outset darkgray;
+			position: absolute;
+			bottom: -10px;
+			left: -10px;
+			
+		}
+		#title{
+			position: absolute;
+			top: 100px;
+			left: 250px;
+
+			
+		}
+		#name{
+			height: 300px;
+			width: 500px;
+			position: absolute;
+			top: 130px;
+			left: 400px;
+			font-size: 4em;
+			font-weight: bold;
+			text-decoration: underline;
+			font-family: 'Playfair Display', serif;
+		}
+		#versus{
+			position: absolute;
+			top: 30px;
+			left: 180px;
+			font-size: 130%;
+			font-family: 'Playfair Display', serif;
+		}
+		#place{
+			position: absolute;
+			top: 260px;
+			left: 550px;
+			font-size: 2em;
+			font-family: 'Playfair Display', serif;
+		}
+		#time{
+			position: absolute;
+			top: 350px;
+			left: 430px;
+			font-size: 3em;
+			font-family: 'Playfair Display', serif;
+		}
+		#div{
+			position: absolute;
+			top: 550px;
+			left: 300px;
+			font-size: 250%;
+			font-family: 'Playfair Display', serif;
+			}
+			#div1{
+				position: absolute;
+				top: 680px;
+				left: 290px;
+				font-size: 250%;
+				font-family: 'Playfair Display', serif;
+			}
+			#annaya{
+				position: absolute;
+				bottom: 0px;
+				left: 981px;
+				height: 200px;
+				width:270px;
+				border: 1px white;
+
+			}
+			#robert{
+				position: absolute;
+				bottom: 13px;
+				left: 1000px;
+				color: whitesmoke;
+				font-size: 160%;
+				font-family: 'Playfair Display', serif;
+
+
+			}
+			#contact{
+				position: absolute;
+				bottom: 30px;
+				left: 200px;
+				font-size: 150%;
+				font-family: 'Playfair Display', serif;
+
+
+			}
+			#details{
+				position: absolute;
+				bottom: 70px;
+				left: 150px;
+				font-size: 2em;
+				text-decoration: overline;
+				font-family: 'Playfair Display', serif;
+			}
+			#facebook1{
+				height: 30px;
+				width: 30px;
+				border: 1px white;
+				position: absolute;
+				bottom: 60px;
+				left: 500px;
+			}
+			#church1{
+				height: 200px;
+				width: 200px;
+				positive: absolute;
+				top: 100px;
+
+			}
+			#booklink{
+				position: absolute;
+				bottom: 40px;
+				left: 450px;
+				font-size: 135%;
+				color: darkblue;
+				text-decoration: none;
+				font-family: 'Playfair Display', serif;
+			}
+			#utube1{
+				height: 30px;
+				width: 30px;
+				border: 1px white;
+				position: absolute;
+				bottom: 59px;
+				left: 750px;
+				font-family: 'Playfair Display', serif;
+
+			}
+			#ulink1{
+
+				position: absolute;
+				bottom: 40px;
+				left: 700px;
+				font-size: 135%;
+				color: darkblue;
+				text-decoration: none;
+				font-family: 'Playfair Display', serif;
+			}
+			#class1{
+				height: 30px;
+				width: 30px;
+				border: 1px white;
+				position: absolute;
+				bottom: 32px;
+				left: 160px;
+
+			}
+
+	</style>
+</head>
+<body>
+	<div id="container">
+		<img src="https://www.wallpapersdsc.net/wp-content/uploads/2016/09/White-Flower-Photos.jpg"  />
+		<div id="versus">The Lord replied, 'My Presence will go with you, and I will give you rest.' &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<strong>Exodus 33:14</strong></div>
+		<div id="name">Manna Church</div>
+		<div id="place">Kothapeta</div>
+		<div id="time">Sunday Worship</div>
+		<div id="div">1. First Worship -Morning 7:00 AM</div>
+		<div id="div1">2. Second Worship -Morning 11:00AM</div>
+		<img id="annaya" src="https://scontent.fhyd11-1.fna.fbcdn.net/v/t31.18172-8/26063459_10204214950650328_2450158572227373802_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=-btXnCdntkwAX8wq-43&tn=vnxC9CK33Cgk18Rb&_nc_ht=scontent.fhyd11-1.fna&oh=00_AT9xsHKuOsE9onVsaVohGE3dt9_Qn3ey0Rl-dTbeVZRMtA&oe=62EBDEAD"/>
+		<div id="robert">Pastor.Robert Pallav</div>
+		<div id="details">Contact Details:</div>
+		<div id="contact">9490 600 190</div>
+		<div><a id="booklink" href="https://r.search.yahoo.com/_ylt=Awrx.M37qMVijxAMMjC7HAx.;_ylu=Y29sbwNzZzMEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1657149820/RO=10/RU=https%3a%2f%2fwww.facebook.com%2frobertpallav/RK=2/RS=nn4shXxFXue4kTOfuE0ZI8dRAxw-">Follow us here on</a></div>
+		<div id="facebook"><img id="facebook1" src="https://th.bing.com/th/id/R.d0dace9b5cf4c55410cb6d0001cd551d?rik=wzMarP0lBwupFg&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2f4c9%2fo4R%2f4c9o4Rooi.jpeg&ehk=%2b7aE5rccEkEEqIdj7vT%2brvomHKYRCzd7%2bdE4U1KpcZo%3d&risl=&pid=ImgRaw&r=0"/></div>
+		<div id="utube"><img id="utube1" src="https://i.pinimg.com/originals/7d/c9/93/7dc993c70d4adba215b87cafdc59d82d.png"/></div>
+		<div id="ulink"><a id="ulink1" href="https://r.search.yahoo.com/_ylt=AwrKAnsltsViiTAAjQS7HAx.;_ylu=Y29sbwNzZzMEcG9zAzQEdnRpZAMEc2VjA3Ny/RV=2/RE=1657153189/RO=10/RU=https%3a%2f%2fwww.youtube.com%2fchannel%2fUCV5DT0jp4IFtDeKSU1F42Hg/RK=2/RS=Nrmo7dkozn3YcNix74qN26K.KCk-">Follow us here on</a></div>
+		<div id="class"><img id="class1" src="https://www.kindpng.com/picc/m/35-354120_phone-call-chat-message-ring-telephone-communication-telephone.png"/></div>
+		
+
+	</div>
+
+</body>
+</html>
+
